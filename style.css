@@ -1,0 +1,163 @@
+body {
+	font-family: Verdana, Geneva, Helvetica, sans-serif;
+	font-size: 18px;
+	margin: 10px 200px;
+
+}
+
+div {
+	background-color: #ffaa80;
+	color: #ffffff;
+	margin: 8px; 
+}
+
+p {
+	text-align: center;
+}
+
+header {
+	display: flex;
+	flex-direction: row;
+    justify-content: space-between;
+}
+
+.logo-exterior {
+	padding-top: 9px;
+	height: 65px;
+	width: 26%;
+}
+
+.future-exterior {
+	padding-top: 9px;
+	height: 65px;
+	width: 40%;
+}
+
+.nav {
+	display: flex;
+	flex-direction: column;
+}
+
+.nav-main_exterior {
+	height: 40px;
+	padding-bottom: 11px;
+}
+
+.main {
+	width: 100%;
+	height: 1000px;
+	display: inline-block;
+}
+
+.section-one-left {
+	display: flex;
+	flex-direction: column;
+	float: left;
+	width: 50%;
+	/*height: 900px;*/
+}
+
+.deal-of-the-week_visible {
+	padding-top: 110px;
+	height: 180px;
+}
+
+
+.highlighted-partners_visible {
+	margin-top: 3px;
+	margin-bottom: 3px;
+	padding-top: 110px;
+	height: 180px;
+}
+
+.highlighted-deals_visible {
+	padding-top: 170px;
+	height: 250px;
+}
+
+.section-two-center {
+	display: flex;
+	flex-direction: column;
+	float: left;
+	width: 25%;
+	/*height: 900px;*/
+
+}
+.membership-sign-up_medium {
+	padding-top: 155px;
+	height: 255px;
+}
+
+.pet-insurance_medium {
+	margin-top: 3px;
+	padding-top: 174px;
+	height: 428px;
+}
+
+.section-three-right {
+	display: flex;
+	flex-direction: column;
+	float: right;
+	width: 25%;
+	/*height: 900px;*/
+}
+
+.description-of-site_viewable {
+	padding-top: 80px;
+	height: 176px;
+}
+
+.last-blog-posts_viewable {
+	margin-top: 3px;
+	margin-bottom: 3px;
+	padding-top: 195px;
+	height: 294px;
+}
+
+.highlighted-discussion_viewable {
+	padding-top: 60px;
+	height: 196px;
+}
+
+.footer {
+	width: 100%;
+	float: left;
+	margin-top: 34px;
+	margin-bottom: 10px;
+}
+
+.footer_outside {
+	clear: both;
+	padding-top: 18px;
+	height: 72px;
+}
+
+/*.description-of-site_outside {
+	float: right;
+	clear: both;
+	width: 30%;
+	height: 200px;
+}
+
+ .highlighted-partners_outside {
+	width: 150%;
+	height: 400px;
+}
+
+.pet_insurance_outside {
+	width: 26%;
+	height: 500px;
+}
+
+.last-blog-posts_outside {
+	width: 29%;
+	heigth: 200px;
+}
+
+.highlighted-categorized-deals_outside {
+
+}
+
+.highlighted-discussion-forum_outside {
+
+} */
